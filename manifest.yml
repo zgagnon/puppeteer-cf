@@ -1,0 +1,6 @@
+---
+applications:
+- name: puppeteer
+  buildpack: nodejs_buildpack
+  env:
+    LD_LIBRARY_PATH: /home/vcap/app/libs
