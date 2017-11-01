@@ -1,2 +1,4 @@
 fs/
 debs/
+node_modules/
+*.droplet

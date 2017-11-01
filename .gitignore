@@ -2,3 +2,4 @@ fs/
 debs/
 libs/
 node_modules/
+public/*
